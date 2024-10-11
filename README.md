@@ -9,29 +9,6 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-Learn
-You can install the necessary libraries using pip:
-
-bash
-Copy code
-pip install pandas matplotlib seaborn scikit-learn
-Installation
-Clone this repository to your local machine to get started:
-
-bash
-Copy code
-git clone [your-repository-url]
-Navigate to the cloned directory:
-
-bash
-Copy code
-cd [your-repository-name]
-Usage
-Open the Jupyter Notebook in your environment:
-
-bash
-Copy code
-jupyter notebook Classification_Decision_Tree_Analysis.ipynb
-Follow the instructions in the notebook to execute the code cells.
 
 Features
 Data Preprocessing: Cleans and prepares the data for analysis.
